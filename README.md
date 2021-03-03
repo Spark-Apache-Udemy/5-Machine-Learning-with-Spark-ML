@@ -1,15 +1,15 @@
 # 5-Machine-Learning-with-Spark-ML
-15. [Introducing Spark.ML](#schema15)
-16. [Linear Regression Spark.ML](#schema16)
-17. [Decision Tree Spark.ML](#schema17)
+1. [Introducing Spark.ML](#schema1)
+2. [Linear Regression Spark.ML](#schema2)
+3. [Decision Tree Spark.ML](#schema3)
 
 
 
 <hr>
 
-<a name="schema15"></a>
+<a name="schema1"></a>
 
-# 15. Introducing Spark.ML
+# 1. Introducing Spark.ML
 
 ALS (Alternating Least Squares).
 
@@ -82,9 +82,9 @@ for userRecs in recommendations:
 
 <hr>
 
-<a name="schema16"></a>
+<a name="schema2"></a>
 
-# 16. Linear Regression Spark.ML
+# 2. Linear Regression Spark.ML
 1º Importamos librerías
 ~~~python
 
@@ -146,9 +146,9 @@ if __name__ == "__main__":
 
 <hr>
 
-<a name="schema17"></a>
+<a name="schema3"></a>
 
-# 17. Decision Tree Spark.ML
+# 3. Decision Tree Spark.ML
 1º Importar librerías
 
 ~~~python
